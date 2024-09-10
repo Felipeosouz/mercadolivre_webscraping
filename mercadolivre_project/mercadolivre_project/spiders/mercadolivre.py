@@ -7,7 +7,7 @@ class MercadolivreSpider(scrapy.Spider):
     # start_urls = ["https://lista.mercadolivre.com.br/veiculos/carros-caminhonetes/?new_categories_landing=false"]
     start_urls = ["https://lista.mercadolivre.com.br/veiculos/carros-caminhonetes-em-bahia/?new_categories_landing=false#applied_filter_id%3Dstate%26applied_filter_name%3DLocalização%26applied_filter_order%3D6%26applied_value_id%3DTUxCUEJBSEFlYmEx%26applied_value_name%3DBahia%26applied_value_order%3D1%26applied_value_results%3D9901%26is_custom%3Dfalse"]
     page_count = 1
-    max_pages = 3
+    max_pages = 10
 
     def parse(self, response):
         carros = response.css("li.ui-search-layout__item")
