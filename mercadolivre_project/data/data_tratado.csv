@@ -1,0 +1,481 @@
+nome,preco,ano,km,vendedor,localização,historico,vistoria,marca,motor
+Hyundai Ix35 2.0 Mpfi 16v Flex 4p Automático,86900.0,2018,67346,Vendedor indepedente,Salvador,1,0,Hyundai,2.0
+Jeep Compass 2.0 16v Flex Longitude Automático,107900.0,2020,40851,Vendedor indepedente,Salvador,1,1,Jeep,2.0
+Renault Duster 1.6 16v Dynamique Hi-flex 5p,62900.0,2016,128700,Vendedor indepedente,Vitória da Conquista,1,0,Renault,1.6
+Nissan Kicks 1.6 16v Flexstart Sv 4p Xtronic,81990.0,2019,56409,Vendedor indepedente,Lauro de Freitas,1,0,Nissan,1.6
+Ford Ka 1.5 Ti-vct Flex Se Plus Automático,59990.0,2020,72046,Vendedor indepedente,Lauro de Freitas,1,0,Ford,1.5
+Hyundai Creta 1.6 16v Flex Smart Automático,82990.0,2019,45690,Vendedor indepedente,Salvador,1,0,Hyundai,1.6
+Volkswagen Voyage Trendline 1.6 T.flex 8v 4p,46900.0,2017,83133,Vendedor indepedente,Salvador,1,0,Volkswagen,1.6
+Jeep Compass 1.3 T270 Turbo Flex Limited At6,162900.0,2023,27387,Vendedor indepedente,Salvador,1,1,Jeep,1.3
+Hyundai Hb20 Hb20 Confort 1.0 Flex 12v Mec.,46900.0,2015,141666,Vendedor indepedente,Lauro de Freitas,1,0,Hyundai,1.0
+Hyundai Hb20 1.0 Unique 12v Flex 4p Manual,52990.0,2019,21509,Vendedor indepedente,Lauro de Freitas,1,0,Hyundai,1.0
+Land Rover Evoque 2.0 R-dynamic Se Si4 Flex (p250) 5p,259900.0,2020,45000,Vendedor indepedente,Macaúbas,1,0,Land,2.0
+Renault Sandero 1.0 12v Sce Flex Gt Line Manual,52990.0,2020,61930,Vendedor indepedente,Lauro de Freitas,1,0,Renault,1.0
+Chevrolet Onix 1.0 Turbo Flex Premier Automático,79900.0,2020,44486,Vendedor indepedente,Salvador,1,1,Chevrolet,1.0
+Nissan Kicks Sv Cvt,82900.0,2018,88756,Vendedor indepedente,Lauro de Freitas,1,0,Nissan,Não informado
+Jeep Renegade 1.8 Longitude Flex Aut. 5p,81499.0,2020,59000,Vendedor indepedente,Salvador,0,0,Jeep,1.8
+Hyundai Ix35 2.0 Mpfi Gl 16v Flex 4p Automático,85900.0,2018,93086,Vendedor indepedente,Salvador,1,0,Hyundai,2.0
+Mitsubishi L200 Triton L200 Triton Aut. Cd,91000.0,2012,196000,Vendedor indepedente,Ilhéus,1,0,Mitsubishi,Não informado
+Jeep Renegade 1.8 Flex Aut. 5p,58000.0,2016,110000,Vendedor indepedente,Salvador,0,0,Jeep,1.8
+Hyundai Hb20x Evolution 1.6 (aut) (flex),82210.0,2022,49232,Por Seminovos Movida,Salvador,1,1,Hyundai,1.6
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,35210,Por Seminovos Movida,Salvador,1,1,Volkswagen,1.0
+Fiat Toro 1.3 Turbo 270 Flex Freedom At6,119900.0,2022,47807,Vendedor indepedente,Salvador,1,1,Fiat,1.3
+Volkswagen Polo Track 1.0 Flex 12v 5p,78270.0,2024,24717,Por Seminovos Movida,Salvador,1,1,Volkswagen,1.0
+Mercedes-benz Classe Gla 2.0 Vision Turbo 5p,120000.0,2015,90000,Vendedor indepedente,Vitória da Conquista,0,0,Mercedes-benz,2.0
+Renault Kwid 1.0 12v Sce Flex Zen Manual,47790.0,2022,23101,Vendedor indepedente,Salvador,1,1,Renault,1.0
+Volkswagen Virtus 1.6 16v Msi 4p,64880.0,2019,66000,Vendedor indepedente,Porto Seguro,0,0,Volkswagen,1.6
+Nissan Kicks 1.6 16v Flexstart Sv 4p Xtronic,82990.0,2020,80169,Vendedor indepedente,Salvador,1,0,Nissan,1.6
+Volkswagen Crossfox 1.6 Msi Flex 16v 4p Automatizado,54900.0,2016,115000,Vendedor indepedente,Salvador,0,0,Volkswagen,1.6
+Nissan Kicks 1.6 16v Flexstart S 4p Manual,74990.0,2019,81405,Vendedor indepedente,Salvador,1,0,Nissan,1.6
+Volkswagen Polo Track 1.0 Flex 12v 5p,75990.0,2024,50051,Por Seminovos Movida,Salvador,1,1,Volkswagen,1.0
+Fiat Mobi Like 1.0 (flex),61920.0,2024,15022,Por Seminovos Movida,Lauro de Freitas,1,1,Fiat,1.0
+Honda City Lx Cvt,64900.0,2016,133833,Vendedor indepedente,Lauro de Freitas,1,0,Honda,Não informado
+Nissan Kicks 1.6 16v Flexstart Sl 4p Xtronic,85990.0,2019,64991,Vendedor indepedente,Salvador,1,0,Nissan,1.6
+Renault Captur 1.6 16v Sce Flex Life X-tronic,73990.0,2020,82697,Vendedor indepedente,Lauro de Freitas,1,0,Renault,1.6
+Renault Captur 1.6 16v Sce Flex Intense X-tronic,77990.0,2020,43928,Vendedor indepedente,Salvador,1,0,Renault,1.6
+Chevrolet Onix Ltz 1.0 Turbo (aut.),84380.0,2022,63039,Por Seminovos Movida,Lauro de Freitas,1,1,Chevrolet,1.0
+Ford Ecosport Se At 1.5,67900.0,2019,120521,Vendedor indepedente,Lauro de Freitas,1,0,Ford,1.5
+Toyota Rav4 2.0 Top 4x2 16v Gasolina 4p Automático,124900.0,2018,91283,Vendedor indepedente,Salvador,0,1,Toyota,2.0
+Jeep Compass Limited F,105000.0,2018,40000,Vendedor indepedente,Eunápolis,1,0,Jeep,Não informado
+Volkswagen Polo Track 1.0 Flex 12v 5p,75990.0,2024,40336,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Volkswagen Fox 1.6 Msi Comfortline 8v Flex 4p Manual,51990.0,2017,66209,Vendedor indepedente,Salvador,1,0,Volkswagen,1.6
+Citroën C3 1.6 Exclusive 16v Flex 4p Automático,53990.0,2017,67796,Vendedor indepedente,Salvador,1,0,Citroën,1.6
+Kia Sportage 2.0 Ex 4x2 16v Flex 4p Automático,118990.0,2019,41856,Vendedor indepedente,Salvador,1,0,Kia,2.0
+Jeep Renegade 1.8 16v Flex Longitude 4p Automático,76900.0,2018,58275,Vendedor indepedente,Salvador,1,0,Jeep,1.8
+Chery Tiggo 2 1.5 Look 16v Flex 5p,56000.0,2019,79000,Vendedor indepedente,Alagoinhas,0,0,Chery,1.5
+Chevrolet Equinox 2.0 Premier Turbo Awd Aut. 5p,148000.0,2019,16800,Vendedor indepedente,Vitória da Conquista,1,0,Chevrolet,2.0
+Citroën C3 1.6 Exclusive 16v Flex 4p Automático,51790.0,2017,56199,Vendedor indepedente,Lauro de Freitas,1,0,Citroën,1.6
+Jeep Compass 2.0 16v Flex Longitude Automático,89990.0,2017,59173,Vendedor indepedente,Salvador,1,0,Jeep,2.0
+Renault Kwid 1.0 12v Sce Flex Zen Manual,40990.0,2020,72123,Vendedor indepedente,Lauro de Freitas,1,0,Renault,1.0
+Chevrolet Onix 1.0 Flex Manual,70390.0,2023,50876,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Fiat Mobi 1.0 Evo Flex Like. Manual,53990.0,2023,50118,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Chevrolet Onix 1.0 Turbo Flex Plus Ltz Manual,81890.0,2023,46959,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Chevrolet Onix 1.0 Turbo Flex Plus Ltz Manual,84790.0,2023,25403,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Citroën C3 1.0 Firefly Flex Live Pack Manual,64890.0,2023,50574,Por Localiza Seminovos,Feira de Santana,1,0,Citroën,1.0
+Hyundai Hb20 1.0 12v Flex Limited Manual,71090.0,2023,56224,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Chevrolet Onix 1.0 Turbo Flex Plus Ltz Manual,81590.0,2023,45774,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Hyundai Hb20 1.0 Tgdi Flex Vision Automático,80790.0,2022,45548,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Ford Ranger 3.2 Storm 4x4 Cd 20v Diesel 4p Automático,210990.0,2023,11425,Por Localiza Seminovos,Feira de Santana,1,0,Ford,3.2
+Chevrolet Onix 1.0 Flex Plus Lt Manual,73990.0,2023,56189,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Fiat Mobi 1.0 Evo Flex Like. Manual,52590.0,2023,52437,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Mobi 1.0 Evo Flex Like. Manual,49990.0,2023,57409,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Argo 1.0 Firefly Flex Drive Manual,66790.0,2023,51930,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Renault Kwid 1.0 12v Sce Flex Zen Manual,53390.0,2024,48269,Por Localiza Seminovos,Feira de Santana,1,0,Renault,1.0
+Chevrolet Onix 1.0 Flex Plus Lt Manual,76690.0,2022,17547,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Hyundai Hb20s 1.0 12v Flex Evolution Manual,71590.0,2022,56481,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Citroën C3 1.0 Firefly Flex Live Pack Manual,65790.0,2023,51389,Por Localiza Seminovos,Feira de Santana,1,0,Citroën,1.0
+Renault Kwid Zen 1.0 12v Sce (flex),52270.0,2023,40006,Por Seminovos Movida,Feira de Santana,1,0,Renault,1.0
+Citroën C3 1.0 Firefly Flex Feel Manual,67890.0,2023,43356,Por Localiza Seminovos,Feira de Santana,1,0,Citroën,1.0
+Chevrolet Onix 1.0 Flex Manual,70890.0,2023,48772,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Hyundai Creta 1.6 16v Flex Action Automático,97790.0,2022,44318,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.6
+Fiat Mobi 1.0 Evo Flex Like. Manual,53990.0,2023,50641,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Volkswagen T-cross 1.0 200 Tsi Total Flex Comfortline Automático,108490.0,2023,50000,Por Localiza Seminovos,Feira de Santana,1,0,Volkswagen,1.0
+Volkswagen T-cross 1.0 200 Tsi Total Flex Comfortline Automático,108490.0,2023,45255,Por Localiza Seminovos,Feira de Santana,1,0,Volkswagen,1.0
+Jeep Renegade 1.3 T270 Turbo Flex Longitude At6,104990.0,2023,63195,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.3
+Jeep Renegade 1.3 T270 Turbo Flex Longitude At6,108690.0,2023,56064,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.3
+Fiat Mobi 1.0 Evo Flex Like. Manual,49990.0,2023,56963,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Mobi 1.0 Evo Flex Like. Manual,54190.0,2023,46992,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Argo 1.0 Firefly Flex Drive Manual,67290.0,2023,47933,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Argo 1.0 Firefly Flex Drive Manual,67590.0,2023,54622,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Jeep Renegade 1.3 T270 Turbo Flex Longitude At6,108790.0,2023,44322,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.3
+Peugeot 208 1.6 16v Flex Active At6,70690.0,2023,41805,Por Localiza Seminovos,Feira de Santana,1,0,Peugeot,1.6
+Chevrolet Spin 1.8 Premier 8v Flex 4p Automático,101090.0,2023,41231,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.8
+Hyundai Hb20 Platinum 1.0 Turbo At (flex),76570.0,2022,58215,Por Seminovos Movida,Feira de Santana,0,1,Hyundai,1.0
+Chevrolet Onix 1.0 Turbo Flex Ltz Manual,85090.0,2023,50512,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Hyundai Hb20 1.0 12v Flex Sense Manual,61990.0,2023,64607,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Jeep Renegade 1.3 T270 Turbo Flex Sport At6,103990.0,2023,46965,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.3
+Fiat Argo 1.0 Firefly Flex Drive Manual,64490.0,2023,66505,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Argo 1.0 Firefly Flex Drive Manual,64490.0,2023,61586,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Peugeot 208 1.6 16v Flex Active At6,73490.0,2023,44115,Por Localiza Seminovos,Feira de Santana,1,0,Peugeot,1.6
+Hyundai Hb20s 1.0 Vision (flex),68780.0,2022,51894,Por Seminovos Movida,Feira de Santana,1,0,Hyundai,1.0
+Volkswagen Voyage 1.0 Mpi (flex),58000.0,2023,61099,Por Seminovos Movida,Feira de Santana,0,1,Volkswagen,1.0
+Chevrolet Onix 1.0 Flex Manual,72490.0,2023,49776,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Fiat Mobi 1.0 Evo Flex Like. Manual,54090.0,2023,48852,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Toro 1.3 Turbo 270 Flex Freedom At6,122990.0,2023,67358,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.3
+Fiat Punto 1.6 16v Essence Flex 5p,41000.0,2016,106000,Vendedor indepedente,Feira de Santana,0,0,Fiat,1.6
+Fiat Mobi Like 1.0 (flex),56210.0,2023,23502,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Chevrolet S10 2.8 Ltz High Country Cab. Dupla 4x4 Aut. 4p,180000.0,2020,70000,Vendedor indepedente,Feira de Santana,0,0,Chevrolet,2.8
+Fiat Argo 1.0 Firefly Flex Manual,66290.0,2023,45783,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,67490.0,2023,54276,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Ford Focus 2.0 Glx Aut. 5p,34999.0,2009,113000,Vendedor indepedente,Cruz das Almas,1,0,Ford,2.0
+Ford Ranger 3.0 Xlt Limited Cab. Dupla 4x4 4p,56000.0,2008,300000,Vendedor indepedente,Feira de Santana,0,0,Ford,3.0
+Renault Logan Life 1.0 12v Sce (flex),59060.0,2023,64672,Por Seminovos Movida,Feira de Santana,1,0,Renault,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,75990.0,2024,44812,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Jeep Commander 1.3 T270 Turbo Flex Limited At6,193190.0,2023,20790,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.3
+Hyundai Hb20 1.0 12v Flex Comfort Manual,70890.0,2024,57008,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Peugeot 2008 Allure Pack 1.6,74090.0,2022,61690,Por Seminovos Movida,Feira de Santana,1,0,Peugeot,1.6
+Fiat Uno 1.0 Drive Flex 5p,39500.0,2018,58500,Vendedor indepedente,Feira de Santana,0,0,Fiat,1.0
+Peugeot 208 Like 1.0 (flex),64210.0,2023,59102,Por Seminovos Movida,Feira de Santana,1,0,Peugeot,1.0
+Toyota Hilux 2.7 Srv Cab. Dupla 4x2 Flex Aut. 4p,111000.0,2015,117500,Vendedor indepedente,Feira de Santana,0,0,Toyota,2.7
+Renault Kwid Intense 1.0 12v Sce (flex),57950.0,2023,55835,Por Seminovos Movida,Feira de Santana,1,1,Renault,1.0
+Chevrolet Cobalt 1.4 Ltz 4p,29000.0,2012,124000,Vendedor indepedente,Feira de Santana,0,0,Chevrolet,1.4
+Hyundai Hb20 1.0 Unique Flex 5p,48000.0,2019,122500,Vendedor indepedente,Feira de Santana,0,0,Hyundai,1.0
+Fiat Argo 1.0 Firefly Flex Manual,64790.0,2023,54905,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Mobi 1.0 Evo Flex Like. Manual,53790.0,2023,53860,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Mitsubishi Eclipse Cross 1.5 Mivec Turbo Gasolina Hpe Cvt,134790.0,2023,48667,Por Localiza Seminovos,Feira de Santana,1,0,Mitsubishi,1.5
+Chevrolet Onix 1.0 Flex Plus Lt Manual,73990.0,2023,43901,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Chevrolet Onix 1.0 Flex Plus Lt Manual,73990.0,2023,44075,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Jeep Compass 1.3 T270 Turbo Flex Longitude At6,136790.0,2022,44159,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.3
+Chevrolet Onix 1.0 Turbo Flex Ltz Manual,83890.0,2023,54116,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Hyundai Hb20s Platinum Bluelink 1.0 Turbo (flex),76330.0,2022,56038,Por Seminovos Movida,Feira de Santana,0,0,Hyundai,1.0
+Volkswagen Fox 1.6 Comfortline Total Flex 5p,47500.0,2017,89000,Vendedor indepedente,Feira de Santana,0,0,Volkswagen,1.6
+Fiat Mobi 1.0 Evo Flex Like. Manual,52190.0,2023,53993,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Fastback 1.0 Turbo 200 Flex Audace Cvt,122890.0,2023,46229,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Mobi 1.0 Evo Flex Like. Manual,52190.0,2021,54797,Por Localiza Seminovos,Feira de Santana,0,0,Fiat,1.0
+Volkswagen Polo 1.0 Mpi Manual,77590.0,2023,46188,Por Localiza Seminovos,Feira de Santana,1,0,Volkswagen,1.0
+Chevrolet Onix 1.0 Turbo Flex Plus Premier Automático,105890.0,2023,16146,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Volkswagen Gol 1.6 Msi Comfortline Total Flex 5p,42000.0,2017,83000,Vendedor indepedente,Feira de Santana,0,0,Volkswagen,1.6
+Hyundai Hb20 1.0 12v Flex Comfort Manual,68390.0,2023,50799,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Chevrolet Cruze 1.4 Turbo Lt 16v Flex 4p Automático,104990.0,2023,54049,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.4
+Fiat Argo 1.0 Firefly Flex Drive Manual,68690.0,2023,51045,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Jeep Renegade 1.8 16v Flex Longitude 4p Automático,89090.0,2021,47207,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.8
+Chevrolet Onix 1.0 Flex Manual,71590.0,2023,51873,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Chevrolet Cruze 1.4 Turbo Lt 16v Flex 4p Automático,103790.0,2023,40229,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.4
+Chevrolet Tracker 1.0 Turbo Flex Lt Automático,111490.0,2023,46452,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Mitsubishi L200 Triton 2.4 16v Turbo Diesel Gl Cd 4x4 Manual,146190.0,2023,51306,Por Localiza Seminovos,Feira de Santana,0,0,Mitsubishi,2.4
+Hyundai Hb20 1.0 12v Flex Comfort Manual,67990.0,2023,49581,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Fiat Mobi 1.0 Evo Flex Like. Manual,54790.0,2023,45505,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,67690.0,2023,52067,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Toyota Corolla 2.0 Vvt-ie Flex Xei Direct Shift,138790.0,2023,49671,Por Localiza Seminovos,Feira de Santana,1,0,Toyota,2.0
+Jeep Compass 1.3 T270 Turbo Flex Longitude At6,138990.0,2023,43741,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.3
+Hyundai Creta 1.6 16v Flex Action Automático,105490.0,2023,46801,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.6
+Hyundai Hb20 1.0 12v Flex Comfort Manual,67690.0,2023,52024,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,68090.0,2023,47361,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Chevrolet Onix 1.0 Flex Plus Lt Manual,84890.0,2024,53133,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Fiat Argo 1.0 Firefly Flex Drive Manual,68490.0,2023,43983,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,67790.0,2023,51098,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Chevrolet Spin 1.8 Premier 8v Flex 4p Automático,114090.0,2024,56380,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.8
+Hyundai Hb20s 1.0 12v Flex Comfort Manual,80390.0,2024,48050,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Chevrolet Onix 1.0 Turbo Flex Plus Ltz Manual,83490.0,2023,30340,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Chevrolet Onix 1.0 Turbo Flex Plus Ltz Manual,83590.0,2023,32615,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Fiat Toro 2.0 16v Turbo Diesel Ultra 4wd At9,122990.0,2021,67891,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,2.0
+Fiat Cronos 1.0 Firefly Flex Drive Manual,69490.0,2023,49860,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,68390.0,2023,52836,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Fiat Strada 1.4 Fire Flex Endurance Cs Manual,84590.0,2023,25320,Por Localiza Seminovos,Feira de Santana,0,0,Fiat,1.4
+Chevrolet Onix 1.0 Turbo Flex Ltz Automático,94690.0,2023,9021,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Fiat Pulse 1.0 Turbo 200 Flex Audace Cvt,99190.0,2022,58322,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Strada 1.4 Fire Flex Endurance Cs Manual,82590.0,2022,50092,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.4
+Hyundai Hb20 1.0 12v Flex Comfort Manual,63990.0,2023,59349,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Chevrolet Montana 1.2 Turbo Flex Lt Manual,122290.0,2023,52139,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.2
+Peugeot 208 1.6 16v Flex Allure At6,82890.0,2022,44371,Por Localiza Seminovos,Feira de Santana,1,0,Peugeot,1.6
+Volkswagen Polo 1.0 170 Tsi Highline Automático,110490.0,2024,8755,Por Localiza Seminovos,Feira de Santana,1,0,Volkswagen,1.0
+Fiat Toro 2.0 16v Turbo Diesel Volcano 4wd At9,138390.0,2022,45314,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,2.0
+Volkswagen Voyage 1.0 12v Mpi Totalflex 4p Manual,62890.0,2023,43683,Por Localiza Seminovos,Feira de Santana,1,0,Volkswagen,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,63990.0,2023,64805,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Fiat Toro 1.3 Turbo 270 Flex Freedom At6,127590.0,2023,48183,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.3
+Hyundai Hb20 1.0 12v Flex Comfort Manual,63990.0,2023,59613,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,63990.0,2023,69778,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Chevrolet Onix 1.0 Flex Manual,67990.0,2023,72518,Por Localiza Seminovos,Feira de Santana,0,0,Chevrolet,1.0
+Chevrolet Onix 1.0 Turbo Flex Plus Ltz Manual,79490.0,2023,51575,Por Localiza Seminovos,Feira de Santana,0,0,Chevrolet,1.0
+Jeep Renegade 1.8 16v Flex Longitude 4p Automático,91090.0,2021,79919,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.8
+Volkswagen Virtus 1.0 Comfortline 200 Tsi Aut. 4p,78000.0,2020,84000,Vendedor indepedente,Cachoeira,0,0,Volkswagen,1.0
+Toyota Corolla 2.0 Xei Dynamic Force Flex Aut. 4p,127500.0,2023,41000,Vendedor indepedente,Feira de Santana,0,0,Toyota,2.0
+Hyundai Hb20 1.0 Tgdi Flex Comfort Automático,85990.0,2023,46171,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Jeep Renegade 1.3 T270 Turbo Flex Longitude At6,110990.0,2023,48102,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.3
+Chevrolet Tracker 1.2 Turbo Flex Premier Automático,120890.0,2023,47324,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.2
+Jeep Compass 1.3 T270 Turbo Flex Longitude At6,139190.0,2022,48261,Por Localiza Seminovos,Feira de Santana,1,0,Jeep,1.3
+Chevrolet Tracker 1.2 Turbo Flex Premier Automático,120090.0,2023,45202,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.2
+Fiat Argo 1.0 Firefly Flex Manual,65190.0,2023,49848,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Fiat Argo 1.0 Firefly Flex Manual,65590.0,2023,42756,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,67790.0,2023,51718,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Fiat Argo 1.0 Firefly Flex Drive Manual,67990.0,2023,48247,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Peugeot 3008 1.6 16v Thp Gasolina Griffe Automático,180290.0,2022,42591,Por Localiza Seminovos,Feira de Santana,1,0,Peugeot,1.6
+Fiat Argo 1.0 Firefly Flex Drive Manual,67990.0,2023,48050,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Ford Fiesta 1.0 Flex 5p,22000.0,2012,170000,Vendedor indepedente,Feira de Santana,0,0,Ford,1.0
+Chevrolet Onix 1.0 Flex Plus Lt Manual,75090.0,2023,33368,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Volkswagen Voyage 1.0 12v Mpi Totalflex 4p Manual,62890.0,2023,43972,Por Localiza Seminovos,Feira de Santana,1,0,Volkswagen,1.0
+Fiat Argo 1.0 Firefly Flex Drive Manual,67990.0,2023,49999,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,67690.0,2023,52440,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Fiat Cronos 1.0 Firefly Flex Drive Manual,75890.0,2023,48990,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,67790.0,2023,50763,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Fiat Fiorino 1.4 Mpi Furgão Endurance 8v Flex 2p Manual,99090.0,2024,53753,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.4
+Fiat Fiorino 1.4 Mpi Furgão Endurance 8v Flex 2p Manual,92890.0,2023,62631,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.4
+Chevrolet Picape Cabine Dupla S10 2.8 Ctdi Ls 4wd (cabine Dupla),172930.0,2023,48410,Por Seminovos Movida,Feira de Santana,1,0,Chevrolet,2.8
+Renault Stepway 1.6 16v Sce Flex Iconic X-tronic,88890.0,2023,47965,Por Localiza Seminovos,Feira de Santana,0,0,Renault,1.6
+Chevrolet Tracker 1.2 Turbo Flex Premier Automático,141890.0,2024,49559,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.2
+Fiat Pulse 1.3 Flex Drive Manual,95690.0,2023,55293,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.3
+Hyundai Hb20 1.0 12v Flex Comfort Manual,68590.0,2023,49744,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Peugeot 208 Like Essencial 1.6 (flex),60610.0,2022,59084,Por Seminovos Movida,Feira de Santana,1,1,Peugeot,1.6
+Volkswagen Gol 1.0 12v (flex),57560.0,2023,49861,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Chevrolet Tracker 1.2 Turbo Flex Premier Automático,149990.0,2024,16062,Por Localiza Seminovos,Feira de Santana,0,0,Chevrolet,1.2
+Peugeot 208 Like Essencial 1.6 (flex),61850.0,2022,54098,Por Seminovos Movida,Feira de Santana,1,0,Peugeot,1.6
+Volkswagen Gol 1.0 12v (flex),56980.0,2023,50831,Por Seminovos Movida,Feira de Santana,0,0,Volkswagen,1.0
+Mercedes-benz Classe A 1.6 Classic 5p,13800.0,2004,173658,Vendedor indepedente,Feira de Santana,0,0,Mercedes-benz,1.6
+Fiat Mobi Like 1.0 (flex),60100.0,2024,34127,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Hyundai Hb20 Platinum 1.0 Turbo At (flex),82230.0,2022,57341,Por Seminovos Movida,Feira de Santana,1,0,Hyundai,1.0
+Ford Focus 1.6 Gl Flex 5p,36000.0,2010,17692,Vendedor indepedente,Feira de Santana,0,0,Ford,1.6
+Chevrolet Prisma 1.4 Ltz 4p,58000.0,2019,115000,Vendedor indepedente,Feira de Santana,0,0,Chevrolet,1.4
+Hyundai Creta 1.0 Tgdi Flex Platinum Automático,150490.0,2024,17422,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Volkswagen Voyage 1.0 Mpi (flex),59730.0,2023,44545,Por Seminovos Movida,Feira de Santana,0,0,Volkswagen,1.0
+Citroën C3 1.5 Tendance Flex 5p,28500.0,2013,111000,Vendedor indepedente,Feira de Santana,0,0,Citroën,1.5
+Chevrolet Onix Plus 1.0 Lt 4p,75500.0,2023,58400,Vendedor indepedente,Feira de Santana,0,0,Chevrolet,1.0
+Volkswagen Voyage 1.0 Mpi (flex),59440.0,2023,48239,Por Seminovos Movida,Feira de Santana,0,0,Volkswagen,1.0
+Chevrolet Tracker 1.2 Turbo Flex Premier Automático,120090.0,2023,43087,Por Localiza Seminovos,Feira de Santana,0,0,Chevrolet,1.2
+Fiat Cronos 1.0 Firefly Flex Drive Manual,69490.0,2023,48284,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Citroën C3 1.0 Firefly Flex Feel Manual,68590.0,2023,47962,Por Localiza Seminovos,Feira de Santana,1,0,Citroën,1.0
+Mitsubishi Eclipse Cross 1.5 Mivec Turbo Gasolina Hpe Cvt,135090.0,2023,43786,Por Localiza Seminovos,Feira de Santana,1,0,Mitsubishi,1.5
+Hyundai Hb20 1.0 12v Flex Comfort Manual,68390.0,2023,51491,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Hyundai Hb20 1.0 12v Flex Sense Manual,64790.0,2023,52659,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Chevrolet Onix 1.0 Turbo Flex Plus Ltz Manual,82890.0,2023,44081,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Fiat Argo 1.0 Firefly Flex Drive Manual,68490.0,2023,52610,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Volkswagen Polo 1.0 Mpi Manual,76690.0,2023,57181,Por Localiza Seminovos,Feira de Santana,1,0,Volkswagen,1.0
+Volkswagen Gol 1.0 12v (flex),55860.0,2023,53385,Por Seminovos Movida,Feira de Santana,0,0,Volkswagen,1.0
+Ford Ranger 2.5 Xlt Cab. Dupla 4x2 Flex 4p,67900.0,2014,208000,Vendedor indepedente,Feira de Santana,0,0,Ford,2.5
+Hyundai Hb20 Limited 1.0 (flex),73870.0,2023,48485,Por Seminovos Movida,Feira de Santana,0,0,Hyundai,1.0
+Chevrolet Onix 1.0 Flex Manual,72490.0,2023,52229,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,64990.0,2023,55471,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,67790.0,2023,50760,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Hyundai Hb20 1.0 12v Flex Comfort Manual,67790.0,2023,50444,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Citroën C4 Cactus 1.6 Vti 120 Flex Feel Eat6,86490.0,2023,42235,Por Localiza Seminovos,Feira de Santana,1,0,Citroën,1.6
+Chevrolet Onix 1.0 Turbo Flex Plus Ltz Manual,83790.0,2023,47357,Por Localiza Seminovos,Feira de Santana,1,0,Chevrolet,1.0
+Chevrolet Astra 2.0 Advantage Flex Power 5p 133 Hp,33500.0,2009,50000,Vendedor indepedente,Feira de Santana,0,0,Chevrolet,2.0
+Mitsubishi L200 Triton 2.4 16v Turbo Diesel Sport Hpe Cd 4p 4x4 Automático,215190.0,2023,52961,Por Localiza Seminovos,Feira de Santana,1,0,Mitsubishi,2.4
+Peugeot 2008 1.6 16v Griffe Flex Aut. 5p,41000.0,2017,137000,Vendedor indepedente,Feira de Santana,0,0,Peugeot,1.6
+Volkswagen Gol 1.0 12v (flex),57560.0,2023,41419,Por Seminovos Movida,Feira de Santana,0,0,Volkswagen,1.0
+Chevrolet S-10 2.8 16v Turbo Diesel Ls Cd 4x4 Manual,147790.0,2022,57408,Por Localiza Seminovos,Feira de Santana,0,0,Chevrolet,2.8
+Mitsubishi L200 Triton 2.4 16v Turbo Diesel Sport Hpe-s Cd 4p 4x4 Automático,233390.0,2023,55109,Por Localiza Seminovos,Feira de Santana,1,0,Mitsubishi,2.4
+Ford Ka 1.0 Se Flex 4p,30000.0,2015,220000,Vendedor indepedente,Santo Estêvão,0,0,Ford,1.0
+Chevrolet Cruze 1.4 Turbo Lt 16v Flex 4p Automático,104790.0,2023,32478,Por Localiza Seminovos,Feira de Santana,0,0,Chevrolet,1.4
+Volkswagen Gol 1.6 Msi Totalflex 4p Manual,63090.0,2022,53528,Por Localiza Seminovos,Feira de Santana,0,0,Volkswagen,1.6
+Fiat Toro 2.0 16v Turbo Diesel Freedom 4wd At9,128814.0,2022,50051,Por Localiza Seminovos,Feira de Santana,0,0,Fiat,2.0
+Citroën C3 Picasso 1.6 16v Gl Flex 5p,27000.0,2011,150000,Vendedor indepedente,Cachoeira,0,0,Citroën,1.6
+Chevrolet Onix 1.0 Turbo Flex Plus Ltz Automático,87290.0,2022,29662,Por Localiza Seminovos,Feira de Santana,0,0,Chevrolet,1.0
+Volkswagen Voyage 1.0 12v Mpi Totalflex 4p Manual,60990.0,2023,49678,Por Localiza Seminovos,Feira de Santana,0,0,Volkswagen,1.0
+Mitsubishi L200 Triton 2.4 16v Turbo Diesel Sport Hpe Cd 4p 4x4 Automático,211690.0,2023,64862,Por Localiza Seminovos,Feira de Santana,0,0,Mitsubishi,2.4
+Hyundai Hb20 1.0 12v Flex Comfort Manual,68590.0,2023,49948,Por Localiza Seminovos,Feira de Santana,0,0,Hyundai,1.0
+Renault Duster 2.0 16v Dynamique Hi-flex Aut. 5p,51500.0,2016,95000,Vendedor indepedente,Cruz das Almas,0,0,Renault,2.0
+Fiat Grand Siena 1.4 Tetrafuel 4p Tetra-combustible,34000.0,2016,127000,Vendedor indepedente,Feira de Santana,0,0,Fiat,1.4
+Land Rover Freelander 2 2.2 Sd4 Hse 5p,69900.0,2011,184000,Vendedor indepedente,Feira de Santana,0,0,Land,2.2
+Volkswagen Amarok 2.0 Highline Cab. Dupla 4x4 4p,89990.0,2014,220000,Vendedor indepedente,Feira de Santana,0,0,Volkswagen,2.0
+Chevrolet S10 Chassi Lt 2.8 Diesel 4x4,155000.0,2021,76000,Vendedor indepedente,Feira de Santana,0,0,Chevrolet,2.8
+Hyundai Hb20s 1.0 Limited Flex 4p,99990.0,2023,0,Por Hyundai Veiculos,Feira de Santana,0,0,Hyundai,1.0
+Fiat Palio 1.0 Elx 3p Gasolina,7500.0,2000,543800,Vendedor indepedente,Cruz das Almas,0,0,Fiat,1.0
+Renault Logan 1.0 16v Authentique Hi-flex 4p,20000.0,2012,1500000,Vendedor indepedente,Feira de Santana,0,0,Renault,1.0
+Hyundai Hb20 1.0 Sense Flex 5p,87090.0,2023,0,Por Hyundai Veiculos,Feira de Santana,0,0,Hyundai,1.0
+Chevrolet Corsa 1.4,19000.0,1995,14410,Vendedor indepedente,Cruz das Almas,0,0,Chevrolet,1.4
+Volkswagen Gol 1.0 5p Gasolina,9000.0,2000,170000,Vendedor indepedente,Feira de Santana,0,0,Volkswagen,1.0
+Hyundai Hb20 1.0 Limited Flex 5p,96090.0,2023,0,Por Hyundai Veiculos,Feira de Santana,0,0,Hyundai,1.0
+Jeep Renegade 1.8 Longitude Flex Aut. 5p 6 Marchas,85500.0,2021,39900,Vendedor indepedente,Feira de Santana,0,0,Jeep,1.8
+Chevrolet Celta 1.0 Life 3p,20000.0,2005,266888,Vendedor indepedente,Santo Estêvão,0,0,Chevrolet,1.0
+Chevrolet Tracker 1.0 Turbo Aut. (pcd) 5p,94500.0,2021,67000,Vendedor indepedente,Feira de Santana,0,0,Chevrolet,1.0
+Toyota Corolla 2.0 16v Xei Flex Aut. 4p,58000.0,2012,147000,Vendedor indepedente,Feira de Santana,0,0,Toyota,2.0
+Hyundai Hb20 1.0 Sense Flex 5p,88690.0,2023,0,Por Hyundai Veiculos,Feira de Santana,0,0,Hyundai,1.0
+Honda Civic 2.0 Ex Flex Aut. 4p,89999.0,2017,100078,Vendedor indepedente,Feira de Santana,0,0,Honda,2.0
+Ford Fusion 2.0 Gtdi Titanium Awd Aut. 4p,68000.0,2014,120000,Vendedor indepedente,Feira de Santana,0,0,Ford,2.0
+Hyundai Creta 1.6 Action Flex Aut. 5p Automática,119990.0,2022,0,Por Hyundai Veiculos,Feira de Santana,0,0,Hyundai,1.6
+Hyundai Hb20 Comfort,91190.0,2022,0,Por Hyundai Veiculos,Feira de Santana,0,0,Hyundai,Não informado
+Hyundai Creta 1.0 T Gdi 12v Limited Flex Aut. 5p,156490.0,2022,0,Por Hyundai Veiculos,Feira de Santana,0,0,Hyundai,1.0
+Mitsubishi L200 Triton Gl 2.4,143560.0,2023,37544,Por Seminovos Movida,Feira de Santana,1,1,Mitsubishi,2.4
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,30397,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Volkswagen Polo Comfortline (aut) (flex),100340.0,2024,31514,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,Não informado
+Fiat Argo Drive 1.0 (flex),69610.0,2022,25564,Por Seminovos Movida,Feira de Santana,1,1,Fiat,1.0
+Renault Logan Zen 1.0 12v Sce (flex),62170.0,2022,43117,Por Seminovos Movida,Feira de Santana,1,0,Renault,1.0
+Volkswagen Voyage 1.0 Mpi (flex),59790.0,2023,58795,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Hyundai Hb20 Sense Plus 1.0,77190.0,2024,26767,Por Seminovos Movida,Feira de Santana,1,0,Hyundai,1.0
+Volkswagen Polo Comfortline (aut) (flex),100340.0,2024,39058,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,Não informado
+Fiat Argo 1.0,63740.0,2023,63668,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Volkswagen Voyage 1.0 Mpi (flex),59790.0,2023,56885,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Volkswagen Polo Comfortline (aut) (flex),101340.0,2024,32341,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,Não informado
+Fiat Mobi Like 1.0 (flex),60710.0,2024,27043,Por Seminovos Movida,Feira de Santana,1,1,Fiat,1.0
+Volkswagen T-cross 1.0 200 Tsi 12v (aut) (flex),121970.0,2024,40000,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Peugeot 208 Like 1.0 (flex),65520.0,2023,52854,Por Seminovos Movida,Feira de Santana,1,1,Peugeot,1.0
+Volkswagen Voyage 1.0 Mpi (flex),59190.0,2023,63175,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Chevrolet Onix Lt 1.0,74560.0,2023,55221,Por Seminovos Movida,Feira de Santana,1,1,Chevrolet,1.0
+Hyundai Hb20x Diamond 1.6 (aut) (flex),85530.0,2022,42272,Por Seminovos Movida,Feira de Santana,1,1,Hyundai,1.6
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,34995,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Volkswagen Polo Comfortline (aut) (flex),100340.0,2024,37682,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,Não informado
+Fiat Mobi Like 1.0 (flex),60710.0,2024,27166,Por Seminovos Movida,Feira de Santana,1,1,Fiat,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,38482,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Volkswagen Voyage 1.0 Mpi (flex),59790.0,2023,52877,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,31245,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Volkswagen T-cross 1.0 200 Tsi 12v (aut) (flex),121970.0,2024,38760,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Fiat Argo 1.0,64390.0,2023,57566,Por Seminovos Movida,Feira de Santana,1,1,Fiat,1.0
+Volkswagen T-cross 1.0 200 Tsi 12v (aut) (flex),121970.0,2024,34284,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Volkswagen T-cross 1.0 200 Tsi 12v (aut) (flex),121970.0,2024,37471,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Fiat Argo Drive 1.0 (flex),69850.0,2023,54805,Por Seminovos Movida,Feira de Santana,1,1,Fiat,1.0
+Fiat Argo 1.0,65690.0,2023,35784,Por Seminovos Movida,Feira de Santana,1,1,Fiat,1.0
+Fiat Mobi Like 1.0 (flex),55110.0,2023,42108,Por Seminovos Movida,Feira de Santana,1,1,Fiat,1.0
+Renault Kwid Zen 1.0 12v Sce (flex),53870.0,2023,46069,Por Seminovos Movida,Feira de Santana,1,0,Renault,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,75990.0,2024,45063,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Volkswagen Gol 1.0 12v (flex),55630.0,2023,52863,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Fiat Argo 1.0,63650.0,2022,44400,Por Seminovos Movida,Feira de Santana,0,1,Fiat,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,75990.0,2024,41838,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Peugeot 208 Like 1.0 (flex),65520.0,2023,58516,Por Seminovos Movida,Feira de Santana,1,0,Peugeot,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,78270.0,2024,29079,Por Seminovos Movida,Feira de Santana,0,0,Volkswagen,1.0
+Fiat Argo 1.0,63740.0,2023,63115,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,36828,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,78270.0,2024,28192,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Hyundai Hb20 Vision 1.0,63640.0,2021,22888,Por Seminovos Movida,Feira de Santana,1,0,Hyundai,1.0
+Fiat Cronos Drive 1.0 (flex) Mt,83650.0,2024,37248,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Volkswagen Voyage 1.6 (aut.),71370.0,2022,29436,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.6
+Fiat Grand Siena 1.0 Flex,56060.0,2021,57409,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,34848,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Volkswagen Voyage 1.0 Mpi (flex),59790.0,2023,56602,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Hyundai Hb20 1.0 Vision (aut) (flex),75270.0,2022,55205,Por Seminovos Movida,Feira de Santana,1,0,Hyundai,1.0
+Volkswagen T-cross 1.0 200 Tsi 12v (aut) (flex),121970.0,2024,45854,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,34334,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Fiat Argo 1.0,64400.0,2023,42710,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,78670.0,2024,38198,Por Seminovos Movida,Feira de Santana,1,1,Volkswagen,1.0
+Hyundai Hb20s Comfort 1.0 (flex),75010.0,2023,50926,Por Seminovos Movida,Feira de Santana,1,0,Hyundai,1.0
+Peugeot 208 Active 1.6 (flex) (aut),89330.0,2024,34148,Por Seminovos Movida,Feira de Santana,1,1,Peugeot,1.6
+Fiat Cronos Drive 1.0 (flex) Mt,72340.0,2023,55261,Por Seminovos Movida,Feira de Santana,1,1,Fiat,1.0
+Nissan Kicks Exclusive 1.6,130890.0,2024,21697,Por Seminovos Movida,Feira de Santana,1,1,Nissan,1.6
+Fiat Mobi Like 1.0 (flex),60710.0,2024,22580,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Fiat Mobi Like 1.0 (flex),59500.0,2024,46329,Por Seminovos Movida,Feira de Santana,1,1,Fiat,1.0
+Fiat Mobi Like 1.0 (flex),55660.0,2023,30903,Por Seminovos Movida,Feira de Santana,1,1,Fiat,1.0
+Peugeot 208 Allure 1.6 (flex) (aut),81920.0,2023,59294,Por Seminovos Movida,Feira de Santana,1,0,Peugeot,1.6
+Fiat Argo 1.0,65040.0,2023,49644,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Chevrolet Onix Plus 1.0 Lt Turbo (flex),78880.0,2023,42919,Por Seminovos Movida,Feira de Santana,1,0,Chevrolet,1.0
+Fiat Cronos 1.3,73430.0,2022,56058,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.3
+Citroën C3 Live Pack 1.0 (flex),73920.0,2024,18152,Por Seminovos Movida,Feira de Santana,1,0,Citroën,1.0
+Fiat Cronos Drive 1.0 (flex) Mt,71630.0,2023,55169,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Volkswagen Voyage 1.0 Mpi (flex),60390.0,2023,47734,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,78290.0,2024,36251,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Volkswagen Gol 1.0 12v (flex),57560.0,2023,49987,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Fiat Uno Attractive 1.0,51510.0,2021,60551,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Volkswagen Voyage 1.0 Mpi (flex),60390.0,2023,44864,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Fiat Argo Drive 1.0 (flex),70560.0,2023,49354,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Hyundai Hb20s Evolution Bluelink 1.0,73430.0,2022,61551,Por Seminovos Movida,Feira de Santana,1,0,Hyundai,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,38124,Por Seminovos Movida,Feira de Santana,0,0,Volkswagen,1.0
+Hyundai Hb20s 1.0 Vision (flex),70880.0,2022,44028,Por Seminovos Movida,Feira de Santana,0,1,Hyundai,1.0
+Peugeot 2008 Allure Pack 1.6,74450.0,2022,56522,Por Seminovos Movida,Feira de Santana,1,0,Peugeot,1.6
+Chevrolet Onix Plus 1.0 Lt Turbo (flex) (aut),98420.0,2024,59064,Por Seminovos Movida,Feira de Santana,1,0,Chevrolet,1.0
+Hyundai Hb20 Sense 1.0 (flex),65520.0,2023,36075,Por Seminovos Movida,Feira de Santana,1,0,Hyundai,1.0
+Volkswagen Gol 1.0 12v (flex),58130.0,2023,31887,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Volkswagen Voyage 1.0 Mpi (flex),61000.0,2023,38845,Por Seminovos Movida,Feira de Santana,1,0,Volkswagen,1.0
+Fiat Mobi Like 1.0 (flex),59500.0,2024,45138,Por Seminovos Movida,Feira de Santana,1,0,Fiat,1.0
+Chevrolet Onix Plus 1.0 Lt Turbo (flex),77300.0,2023,61545,Por Seminovos Movida,Feira de Santana,1,0,Chevrolet,1.0
+Hyundai Hb20 Sense 1.0,64870.0,2023,47939,Por Seminovos Movida,Feira de Santana,1,0,Hyundai,1.0
+Hyundai Hb20 1.0 12v Flex Sense Manual,61990.0,2023,52374,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Fiat Argo 1.0 Firefly Flex Drive Manual,65490.0,2023,53966,Por Localiza Seminovos,Feira de Santana,1,0,Fiat,1.0
+Hyundai Hb20 1.0 12v Flex Sense Manual,61990.0,2023,52374,Por Localiza Seminovos,Feira de Santana,1,0,Hyundai,1.0
+Hyundai Ix35 2.0 Mpfi 16v Flex 4p Automático,86900.0,2018,67346,Vendedor indepedente,Salvador,1,0,Hyundai,2.0
+Jeep Compass 2.0 16v Flex Longitude Automático,107900.0,2020,40851,Vendedor indepedente,Salvador,1,1,Jeep,2.0
+Renault Duster 1.6 16v Dynamique Hi-flex 5p,62900.0,2016,128700,Vendedor indepedente,Vitória da Conquista,1,0,Renault,1.6
+Nissan Kicks 1.6 16v Flexstart Sv 4p Xtronic,81990.0,2019,56409,Vendedor indepedente,Lauro de Freitas,1,0,Nissan,1.6
+Ford Ka 1.5 Ti-vct Flex Se Plus Automático,59990.0,2020,72046,Vendedor indepedente,Lauro de Freitas,1,0,Ford,1.5
+Hyundai Creta 1.6 16v Flex Smart Automático,82990.0,2019,45690,Vendedor indepedente,Salvador,1,0,Hyundai,1.6
+Volkswagen Voyage Trendline 1.6 T.flex 8v 4p,46900.0,2017,83133,Vendedor indepedente,Salvador,1,0,Volkswagen,1.6
+Jeep Compass 1.3 T270 Turbo Flex Limited At6,162900.0,2023,27387,Vendedor indepedente,Salvador,1,1,Jeep,1.3
+Hyundai Hb20 Hb20 Confort 1.0 Flex 12v Mec.,46900.0,2015,141666,Vendedor indepedente,Lauro de Freitas,1,0,Hyundai,1.0
+Hyundai Hb20 1.0 Unique 12v Flex 4p Manual,52990.0,2019,21509,Vendedor indepedente,Lauro de Freitas,1,0,Hyundai,1.0
+Land Rover Evoque 2.0 R-dynamic Se Si4 Flex (p250) 5p,259900.0,2020,45000,Vendedor indepedente,Macaúbas,1,0,Land,2.0
+Renault Sandero 1.0 12v Sce Flex Gt Line Manual,52990.0,2020,61930,Vendedor indepedente,Lauro de Freitas,1,0,Renault,1.0
+Chevrolet Onix 1.0 Turbo Flex Premier Automático,79900.0,2020,44486,Vendedor indepedente,Salvador,1,1,Chevrolet,1.0
+Nissan Kicks Sv Cvt,82900.0,2018,88756,Vendedor indepedente,Lauro de Freitas,1,0,Nissan,Não informado
+Jeep Renegade 1.8 Longitude Flex Aut. 5p,81499.0,2020,59000,Vendedor indepedente,Salvador,0,0,Jeep,1.8
+Hyundai Ix35 2.0 Mpfi Gl 16v Flex 4p Automático,85900.0,2018,93086,Vendedor indepedente,Salvador,1,0,Hyundai,2.0
+Mitsubishi L200 Triton L200 Triton Aut. Cd,91000.0,2012,196000,Vendedor indepedente,Ilhéus,1,0,Mitsubishi,Não informado
+Jeep Renegade 1.8 Flex Aut. 5p,58000.0,2016,110000,Vendedor indepedente,Salvador,0,0,Jeep,1.8
+Hyundai Hb20x Evolution 1.6 (aut) (flex),82210.0,2022,49232,Por Seminovos Movida,Salvador,1,1,Hyundai,1.6
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,35210,Por Seminovos Movida,Salvador,1,1,Volkswagen,1.0
+Fiat Toro 1.3 Turbo 270 Flex Freedom At6,119900.0,2022,47807,Vendedor indepedente,Salvador,1,1,Fiat,1.3
+Volkswagen Polo Track 1.0 Flex 12v 5p,78270.0,2024,24717,Por Seminovos Movida,Salvador,1,1,Volkswagen,1.0
+Mercedes-benz Classe Gla 2.0 Vision Turbo 5p,120000.0,2015,90000,Vendedor indepedente,Vitória da Conquista,0,0,Mercedes-benz,2.0
+Renault Kwid 1.0 12v Sce Flex Zen Manual,47790.0,2022,23101,Vendedor indepedente,Salvador,1,1,Renault,1.0
+Volkswagen Virtus 1.6 16v Msi 4p,64880.0,2019,66000,Vendedor indepedente,Porto Seguro,0,0,Volkswagen,1.6
+Nissan Kicks 1.6 16v Flexstart Sv 4p Xtronic,82990.0,2020,80169,Vendedor indepedente,Salvador,1,0,Nissan,1.6
+Volkswagen Crossfox 1.6 Msi Flex 16v 4p Automatizado,54900.0,2016,115000,Vendedor indepedente,Salvador,0,0,Volkswagen,1.6
+Nissan Kicks 1.6 16v Flexstart S 4p Manual,74990.0,2019,81405,Vendedor indepedente,Salvador,1,0,Nissan,1.6
+Volkswagen Polo Track 1.0 Flex 12v 5p,75990.0,2024,50051,Por Seminovos Movida,Salvador,1,1,Volkswagen,1.0
+Fiat Mobi Like 1.0 (flex),61920.0,2024,15022,Por Seminovos Movida,Lauro de Freitas,1,1,Fiat,1.0
+Honda City Lx Cvt,64900.0,2016,133833,Vendedor indepedente,Lauro de Freitas,1,0,Honda,Não informado
+Nissan Kicks 1.6 16v Flexstart Sl 4p Xtronic,85990.0,2019,64991,Vendedor indepedente,Salvador,1,0,Nissan,1.6
+Renault Captur 1.6 16v Sce Flex Life X-tronic,73990.0,2020,82697,Vendedor indepedente,Lauro de Freitas,1,0,Renault,1.6
+Renault Captur 1.6 16v Sce Flex Intense X-tronic,77990.0,2020,43928,Vendedor indepedente,Salvador,1,0,Renault,1.6
+Chevrolet Onix Ltz 1.0 Turbo (aut.),84380.0,2022,63039,Por Seminovos Movida,Lauro de Freitas,1,1,Chevrolet,1.0
+Ford Ecosport Se At 1.5,67900.0,2019,120521,Vendedor indepedente,Lauro de Freitas,1,0,Ford,1.5
+Toyota Rav4 2.0 Top 4x2 16v Gasolina 4p Automático,124900.0,2018,91283,Vendedor indepedente,Salvador,0,1,Toyota,2.0
+Jeep Compass Limited F,105000.0,2018,40000,Vendedor indepedente,Eunápolis,1,0,Jeep,Não informado
+Volkswagen Fox 1.6 Msi Comfortline 8v Flex 4p Manual,51990.0,2017,66209,Vendedor indepedente,Salvador,1,0,Volkswagen,1.6
+Citroën C3 1.6 Exclusive 16v Flex 4p Automático,53990.0,2017,67796,Vendedor indepedente,Salvador,1,0,Citroën,1.6
+Kia Sportage 2.0 Ex 4x2 16v Flex 4p Automático,118990.0,2019,41856,Vendedor indepedente,Salvador,1,0,Kia,2.0
+Jeep Renegade 1.8 16v Flex Longitude 4p Automático,76900.0,2018,58275,Vendedor indepedente,Salvador,1,0,Jeep,1.8
+Chery Tiggo 2 1.5 Look 16v Flex 5p,56000.0,2019,79000,Vendedor indepedente,Alagoinhas,0,0,Chery,1.5
+Chevrolet Equinox 2.0 Premier Turbo Awd Aut. 5p,148000.0,2019,16800,Vendedor indepedente,Vitória da Conquista,1,0,Chevrolet,2.0
+Citroën C3 1.6 Exclusive 16v Flex 4p Automático,51790.0,2017,56199,Vendedor indepedente,Lauro de Freitas,1,0,Citroën,1.6
+Jeep Compass 2.0 16v Flex Longitude Automático,89990.0,2017,59173,Vendedor indepedente,Salvador,1,0,Jeep,2.0
+Renault Kwid 1.0 12v Sce Flex Zen Manual,40990.0,2020,72123,Vendedor indepedente,Lauro de Freitas,1,0,Renault,1.0
+Volkswagen Gol 1.0 Trend Total Flex 5p,28300.0,2011,82000,Vendedor indepedente,Pojuca,0,0,Volkswagen,1.0
+Volkswagen Fox 1.0,28900.0,2010,98239,Vendedor indepedente,Lauro de Freitas,1,0,Volkswagen,1.0
+Renault Fluence 2.0 Dynamique Hi-flex 4p,37000.0,2013,154000,Vendedor indepedente,Barreiras,0,0,Renault,2.0
+Renault Captur Inten 16a,76500.0,2019,83000,Vendedor indepedente,Eunápolis,1,0,Renault,Não informado
+Jeep Compass 2.0 16v Flex Longitude Automático,92990.0,2018,58959,Vendedor indepedente,Salvador,1,0,Jeep,2.0
+Ford Ecosport Titnat 2.0,69900.0,2019,76024,Vendedor indepedente,Lauro de Freitas,1,0,Ford,2.0
+Volkswagen Gol Tl Mb S,39900.0,2015,110000,Vendedor indepedente,Eunápolis,1,0,Volkswagen,Não informado
+Honda Hr-v 1.8 16v Flex Ex 4p Automático,83990.0,2017,67481,Vendedor indepedente,Salvador,1,0,Honda,1.8
+Chevrolet Onix 1.0 Flex Manual,70890.0,2023,48712,Vendedor indepedente,Salvador,1,0,Chevrolet,1.0
+Chevrolet Onix 1.0 Flex Plus Lt Manual,73990.0,2023,50859,Vendedor indepedente,Salvador,1,0,Chevrolet,1.0
+Chevrolet Onix 1.0 Turbo Flex Ltz Manual,84990.0,2023,53415,Vendedor indepedente,Salvador,1,0,Chevrolet,1.0
+Chevrolet Onix 1.0 Flex Manual,70390.0,2023,50376,Vendedor indepedente,Salvador,1,0,Chevrolet,1.0
+Hyundai Hb20 Hb20 1.6a Prem,53900.0,2015,154499,Vendedor indepedente,Lauro de Freitas,1,0,Hyundai,Não informado
+Chevrolet Onix 1.4 Mpfi Lt 8v Flex 4p Manual,53990.0,2019,50466,Vendedor indepedente,Salvador,1,0,Chevrolet,1.4
+Jeep Compass 2.0 16v Flex Limited Automático,98990.0,2018,59529,Vendedor indepedente,Salvador,1,0,Jeep,2.0
+Renault Sandero Auth 10,42900.0,2017,71800,Vendedor indepedente,Lauro de Freitas,0,0,Renault,Não informado
+Bmw X1 2.0 16v Turbo Activeflex Sdrive20i 4p Automático,159990.0,2020,42432,Vendedor indepedente,Salvador,1,0,Bmw,2.0
+Jeep Compass Limeted F H,105000.0,2018,80000,Vendedor indepedente,Eunápolis,1,0,Jeep,Não informado
+Ford Fiesta Ha 1.6l Se,43900.0,2015,100280,Vendedor indepedente,Lauro de Freitas,0,0,Ford,Não informado
+Ford Ka 1.0 Se Flex 4p,48500.0,2019,58000,Vendedor indepedente,Eunápolis,0,0,Ford,1.0
+Jeep Renegade 1.8 16v Flex Longitude 4p Automático,84900.0,2020,63533,Vendedor indepedente,Salvador,1,0,Jeep,1.8
+Volkswagen Polo 1.0 Mpi Manual,76090.0,2023,46188,Por Localiza Seminovos,Salvador,1,0,Volkswagen,1.0
+Volkswagen Voyage 1.0 12v Mpi Totalflex 4p Manual,54370.0,2023,63530,Vendedor indepedente,Salvador,1,0,Volkswagen,1.0
+Volkswagen T-cross 1.0 200 Tsi Total Flex Comfortline Automático,112900.0,2023,17898,Vendedor indepedente,Salvador,1,0,Volkswagen,1.0
+Volkswagen Gol 1.6 Msi Totalflex 4p Manual,48900.0,2019,75000,Vendedor indepedente,Salvador,0,0,Volkswagen,1.6
+Chevrolet Tracker 1.2 Turbo Flex Rs Automático,129900.0,2024,44491,Vendedor indepedente,Salvador,1,0,Chevrolet,1.2
+Ford Ka Ka 1.0 Se/se Plus Tivct Flex 5p,41900.0,2017,71000,Vendedor indepedente,Lauro de Freitas,1,0,Ford,1.0
+Hyundai Hb20 Hb20 1.0m Comfor,53900.0,2018,72900,Vendedor indepedente,Lauro de Freitas,1,0,Hyundai,Não informado
+Volkswagen Fox Novo  Cl Ma,44900.0,2015,88200,Vendedor indepedente,Lauro de Freitas,1,0,Volkswagen,Não informado
+Volkswagen Gol 1.0 12v Track Total Flex 5p,48900.0,2017,79000,Vendedor indepedente,Lauro de Freitas,0,0,Volkswagen,1.0
+Jeep Renegade Sport 1.8 4x2 Flex 16v Aut.,75900.0,2019,81292,Vendedor indepedente,Salvador,1,0,Jeep,1.8
+Chevrolet Equinox 2.0 Premier Turbo Awd Aut. 5p,124900.0,2018,87000,Vendedor indepedente,Mucuri,0,0,Chevrolet,2.0
+Fiat Toro 2.0 16v Turbo Diesel Volcano 4wd At9,117900.0,2020,79246,Vendedor indepedente,Salvador,1,0,Fiat,2.0
+Honda Hr-v Hr-v Ex Cvt,77900.0,2016,66625,Vendedor indepedente,Lauro de Freitas,1,0,Honda,Não informado
+Ford F-1000 4.3 Xl 4x2,105000.0,1998,650000,Vendedor indepedente,Luís Eduardo Magalhães,1,0,Ford,4.3
+Nissan Sentra 2.0 S Flex Aut. 4p,34000.0,2012,120000,Vendedor indepedente,Itapetinga,0,0,Nissan,2.0
+Renault Kwid 1.0 12v Sce Flex Zen Manual,39990.0,2019,45345,Vendedor indepedente,Lauro de Freitas,1,0,Renault,1.0
+Land Rover Discovery 4 3.0 Tdv6 Hse 5p,75000.0,2011,122000,Vendedor indepedente,Salvador,1,0,Land,3.0
+Chevrolet Onix 1.0 Flex Manual,69990.0,2023,55642,Vendedor indepedente,Salvador,1,0,Chevrolet,1.0
+Mitsubishi Pajero Sport 2.4 Hpe 4wd 5p,251900.0,2020,55000,Vendedor indepedente,Vitória da Conquista,0,0,Mitsubishi,2.4
+Toyota Etios 1.3 X 16v Flex 4p Manual,54990.0,2018,66282,Vendedor indepedente,Salvador,0,0,Toyota,1.3
+Caoa Chery Qq Qq 1.0 Look,29900.0,2018,52000,Vendedor indepedente,Lauro de Freitas,1,0,Caoa,1.0
+Fiat Uno Attractive 1.4,33900.0,2011,113191,Vendedor indepedente,Lauro de Freitas,1,0,Fiat,1.4
+Volkswagen Voyage 1.6 Msi Total Flex 4p,51000.0,2020,120307,Vendedor indepedente,Camaçari,0,0,Volkswagen,1.6
+Volkswagen T-cross 1.4 250 Tsi Total Flex Highline Automático,116990.0,2022,26749,Vendedor indepedente,Salvador,1,0,Volkswagen,1.4
+Volkswagen Virtus 1.0 170 Tsi Automático,101250.0,2023,13236,Vendedor indepedente,Salvador,1,0,Volkswagen,1.0
+Hyundai Hb20 1.0 12v Flex Sense Manual,61990.0,2023,49382,Por Localiza Seminovos,Salvador,1,0,Hyundai,1.0
+Jeep Renegade 1.8 Sport Flex Aut. 5p,70000.0,2019,94908,Vendedor indepedente,Eunápolis,0,0,Jeep,1.8
+Citroën C4 Cactus 1.6 Thp Flex Shine Eat6,115900.0,2024,8716,Vendedor indepedente,Salvador,1,0,Citroën,1.6
+Nissan Frontier 2.3 16v Turbo Diesel Attack Cd 4x4 Automático,186990.0,2023,12057,Vendedor indepedente,Lauro de Freitas,1,0,Nissan,2.3
+Hyundai Hb20s Comfort 1.0 (flex) (aut.),99850.0,2024,40030,Por Seminovos Movida,Salvador,1,0,Hyundai,1.0
+Hyundai Hb20 1.0 12v Flex Sense Manual,58900.0,2022,71038,Vendedor indepedente,Salvador,1,0,Hyundai,1.0
+Hyundai Creta 1.0 Tgdi Flex Platinum Automático,135900.0,2022,26061,Vendedor indepedente,Salvador,1,1,Hyundai,1.0
+Volkswagen T-cross 1.0 200 Tsi Total Flex Automático,94790.0,2021,62367,Vendedor indepedente,Salvador,1,0,Volkswagen,1.0
+Renault Sandero 1.0 12v Sce Flex S Edition Manual,63990.0,2023,5483,Vendedor indepedente,Lauro de Freitas,1,0,Renault,1.0
+Chevrolet Onix 1.0 Flex Manual,70890.0,2023,48885,Por Localiza Seminovos,Salvador,1,0,Chevrolet,1.0
+Renault Duster 1.6 16v Sce Flex Intense X-tronic,96990.0,2023,45409,Vendedor indepedente,Lauro de Freitas,1,0,Renault,1.6
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,36733,Por Seminovos Movida,Salvador,0,1,Volkswagen,1.0
+Chevrolet Onix 1.0 Turbo Flex Plus Ltz Manual,81890.0,2023,47357,Por Localiza Seminovos,Salvador,1,0,Chevrolet,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,77890.0,2024,34472,Por Seminovos Movida,Salvador,1,1,Volkswagen,1.0
+Peugeot 208 Active 1.6 (flex) (aut),91120.0,2024,17093,Por Seminovos Movida,Salvador,1,0,Peugeot,1.6
+Nissan Versa Unique,57000.0,2018,69000,Vendedor indepedente,Salvador,0,0,Nissan,Não informado
+Volkswagen T-cross 1.0 200 Tsi 5p,95000.0,2020,102000,Vendedor indepedente,Salvador,0,0,Volkswagen,1.0
+Volkswagen T-cross 1.0 200 Tsi Total Flex Comfortline Automático,108990.0,2022,21823,Vendedor indepedente,Salvador,1,0,Volkswagen,1.0
+Volkswagen Polo Track 1.0 Flex 12v 5p,75990.0,2024,40235,Por Seminovos Movida,Salvador,0,1,Volkswagen,1.0
+Chevrolet Corsa Hatch Maxx,29900.0,2011,211525,Vendedor indepedente,Lauro de Freitas,1,0,Chevrolet,Não informado
+Hyundai Hb20 1.0 12v Flex Limited Manual,81590.0,2024,21740,Por Localiza Seminovos,Salvador,1,0,Hyundai,1.0
+Volkswagen T-cross 1.0 200 Tsi Total Flex Automático,117990.0,2022,19673,Vendedor indepedente,Salvador,1,0,Volkswagen,1.0
+Fiat Argo 1.0 Firefly Flex Drive Manual,58900.0,2021,72650,Vendedor indepedente,Salvador,1,0,Fiat,1.0
+Fiat Mobi Like 1.0 (flex),51010.0,2021,64360,Por Seminovos Movida,Salvador,1,0,Fiat,1.0
+Renault Duster 2.0 Go-pro 16v 4x4 Hi-flex 5p,75000.0,2020,138000,Vendedor indepedente,Porto Seguro,0,0,Renault,2.0
+Renault Logan Zen 1.0 12v Sce (flex),61430.0,2023,55754,Por Seminovos Movida,Lauro de Freitas,1,0,Renault,1.0
+Chevrolet S10 2.8 Ls Cab. Simples 4x4 2p,130000.0,2020,63147,Vendedor indepedente,Santo Antônio de Jesus,1,0,Chevrolet,2.8
+Volkswagen T-cross 1.0 200 Tsi 12v (aut) (flex),118990.0,2024,52134,Por Seminovos Movida,Lauro de Freitas,1,1,Volkswagen,1.0
+Peugeot 2008 Allure 1.6 Flex 16v 5p Aut,55900.0,2016,109177,Vendedor indepedente,Lauro de Freitas,1,0,Peugeot,1.6
+Mercedes-benz Van Sprinter 417 Sprinter 417,254900.0,2023,170958,Vendedor indepedente,Camaçari,1,0,Mercedes-benz,Não informado
+Volkswagen T-cross 1.0 200 Tsi 12v (aut) (flex),121970.0,2024,35285,Por Seminovos Movida,Salvador,1,0,Volkswagen,1.0
+Renault Kwid 1.0 12v Intense Sce 5p,40000.0,2020,50000,Vendedor indepedente,Jacobina,0,0,Renault,1.0
+Renault Kwid Outsider 1.0 12v Sce (flex),63010.0,2023,27561,Por Seminovos Movida,Lauro de Freitas,1,1,Renault,1.0
+Hyundai Tucson Hyundatucson Glsb,44900.0,2011,136876,Vendedor indepedente,Lauro de Freitas,1,0,Hyundai,Não informado
+Nissan Versa Advance 1.6 (flex) (aut),90410.0,2022,52376,Por Seminovos Movida,Salvador,1,1,Nissan,1.6
+Citroën C3 1.0 Firefly Flex Live Pack Manual,64990.0,2023,12803,Vendedor indepedente,Lauro de Freitas,1,0,Citroën,1.0
+Caoa Chery Tiggo 3x 1.0 Vvt Turbo Iflex Pro Cvt,78990.0,2022,58816,Vendedor indepedente,Salvador,1,0,Caoa,1.0
