@@ -3,7 +3,8 @@ import pandas as pd
 import plotly.express as px
 import os 
 # os.path.abspath("data/data_tratado.csv" )
-st.title("Carros mercado livre - Bahia")
+st.title("Carros no mercado livre - Bahia")
+st.subheader("10 primeira páginas")
 
 csv_file = os.path.abspath("mercadolivre_project/data/data_tratado.csv")
 df = pd.read_csv(csv_file)
