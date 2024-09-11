@@ -5,7 +5,7 @@ import os
 # os.path.abspath("data/data_tratado.csv" )
 st.title("Carros mercado livre - Bahia")
 
-csv_file = os.path.abspath("data/data_tratado.csv")
+csv_file = os.path.abspath("mercadolivre_project/data/data_tratado.csv")
 df = pd.read_csv(csv_file)
 
 st.sidebar.title("Filtros")
