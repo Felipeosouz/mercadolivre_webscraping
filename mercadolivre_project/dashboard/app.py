@@ -4,7 +4,7 @@ import plotly.express as px
 import os 
 # os.path.abspath("data/data_tratado.csv" )
 st.title("Carros no mercado livre - Bahia")
-st.subheader("10 primeira páginas")
+st.subheader("10 primeiras páginas")
 
 csv_file = os.path.abspath("mercadolivre_project/data/data_tratado.csv")
 df = pd.read_csv(csv_file)
@@ -47,8 +47,7 @@ if ano_selecionado != "Todos os anos" and marca_selecionada != "Todas as marcas"
                      (df['preco'] <= preco_max) & 
                      (df['km'] >= km_min) & 
                      (df['km'] <= km_max)]
-st.subheader('Anúncios Filtrados')
-
+    
  # Métricas
 st.subheader('Métricas')
 total_anuncios = len(df_filtrado)
