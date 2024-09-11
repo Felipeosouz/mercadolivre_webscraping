@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.title("Carros mercado livre - Bahia")
 
-df = pd.read_csv("../data/data_tratado.csv")
+df = pd.read_csv("./data/data_tratado.csv")
 
 st.sidebar.title("Filtros")
 
