@@ -1,13 +1,72 @@
 import streamlit as st
 import pandas as pd
+import plotly.express as px
 
 st.title("Carros mercado livre - Bahia")
 
 df = pd.read_csv("./data/data_tratado.csv")
-df1 = pd.read_csv("./data/data.csv")
 
-# df["ano"] = df["ano"].astype(str)
+st.sidebar.title("Filtros")
 
-st.selectbox("Escolha o ano", df["ano"].unique())
-st.dataframe(df.head())
-st.dataframe(df1.head())
+anos = ["Todos os anos"] + sorted(df["ano"].unique(), reverse=True)
+ano_selecionado = st.sidebar.selectbox('Ano do carro', anos)
+
+marcas = ["Todas as marcas"] + sorted(df['marca'].unique())
+marca_selecionada = st.sidebar.selectbox('Marca do carro', marcas)
+
+preco_min, preco_max = st.sidebar.slider('Faixa de Preço', int(df['preco'].min()), int(df['preco'].max()), (int(df['preco'].min()), int(df['preco'].max())))
+
+km_min, km_max = st.sidebar.slider('Kilometros rodados', int(df['km'].min()), int(df['km'].max()), (int(df['km'].min()), int(df['km'].max())))
+
+if ano_selecionado == "Todos os anos" and marca_selecionada != "Todas as marcas":
+    df_filtrado = df[(df['marca'] == marca_selecionada) & 
+                     (df['preco'] >= preco_min) & 
+                     (df['preco'] <= preco_max) & 
+                     (df['km'] >= km_min) & 
+                     (df['km'] <= km_max)]
+
+if marca_selecionada == "Todas as marcas" and ano_selecionado != "Todos os anos":
+    df_filtrado = df[(df['ano'] == ano_selecionado) &
+                     (df['preco'] >= preco_min) & 
+                     (df['preco'] <= preco_max) & 
+                     (df['km'] >= km_min) & 
+                     (df['km'] <= km_max)]
+if ano_selecionado == "Todos os anos" and marca_selecionada == "Todas as marcas":
+    df_filtrado = df[(df['preco'] >= preco_min) &
+                     (df['preco'] <= preco_max) & 
+                     (df['km'] >= km_min) & 
+                     (df['km'] <= km_max)]
+if ano_selecionado != "Todos os anos" and marca_selecionada != "Todas as marcas":
+    df_filtrado = df[(df['ano'] == ano_selecionado) &
+                     (df['marca'] == marca_selecionada) & 
+                     (df['preco'] >= preco_min) & 
+                     (df['preco'] <= preco_max) & 
+                     (df['km'] >= km_min) & 
+                     (df['km'] <= km_max)]
+st.subheader('Anúncios Filtrados')
+
+ # Métricas
+st.subheader('Métricas')
+total_anuncios = len(df_filtrado)
+total_marcas = len(df_filtrado['marca'].unique())
+total_anos = len(df_filtrado['ano'].unique())
+
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.metric(label="Total de Anúncios", value=total_anuncios)
+with col2:
+    st.metric(label="Total de Marcas", value=total_marcas)
+with col3:
+    st.metric(label="Total de Anos", value=total_anos)
+
+st.dataframe(df_filtrado)
+ # Gráficos de Distribuição com Plotly
+st.subheader('Distribuição de Preços')
+fig_preco = px.histogram(df_filtrado, x='preco', nbins=30, title='Distribuição de Preços')
+fig_preco.update_layout(xaxis_title='Preço', yaxis_title='Quantidade de Anúncios')
+st.plotly_chart(fig_preco, use_container_width=True)
+
+st.subheader('Distribuição de Anos')
+fig_ano = px.histogram(df_filtrado, x='ano', title='Distribuição de Anos')
+fig_ano.update_layout(xaxis_title='Ano', yaxis_title='Quantidade de Anúncios')
+st.plotly_chart(fig_ano, use_container_width=True)
