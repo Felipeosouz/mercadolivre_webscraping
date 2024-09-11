@@ -1,10 +1,12 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-
+import os 
+# os.path.abspath("data/data_tratado.csv" )
 st.title("Carros mercado livre - Bahia")
 
-df = pd.read_csv("./data/data_tratado.csv")
+csv_file = os.path.abspath("data/data_tratado.csv")
+df = pd.read_csv(csv_file)
 
 st.sidebar.title("Filtros")
 
