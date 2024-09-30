@@ -21,14 +21,14 @@ Coletar informações sobre os anúncios de carros na Bahia do Mercado Livre e c
 ## 🗂️ Estrutura do Projeto
 📦mercado-livre-webscraping  
  ┣ 📂dashboard  
-   ┣ 📜app.py  # Código da aplicação Streamlit para visualização  
+     ┣ 📜app.py  # Código da aplicação Streamlit para visualização  
  ┣ 📂data  
-   ┣ 📜raw_data.csv  # Dados brutos coletados  
+     ┣ 📜raw_data.csv  # Dados brutos coletados  
  ┣ 📂notebooks  
-   ┣ 📜mercadolivre.ipynb  # Transformações nos dados  
+     ┣ 📜mercadolivre.ipynb  # Transformações nos dados  
  ┣ 📂mercadolivre_project  
-   ┣ 📜scraper.py  # Script de scraping usando Scrapy  
-   ┣ 📜data_cleaning.ipynb  # Notebook para limpeza de dados  
+     ┣ 📜scraper.py  # Script de scraping usando Scrapy  
+     ┣ 📜data_cleaning.ipynb  # Notebook para limpeza de dados  
  ┣ 📜requirements.txt  # Bibliotecas necessárias  
  ┣ 📜README.md  # Descrição do projeto  
 
