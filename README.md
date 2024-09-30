@@ -19,8 +19,8 @@ Coletar informações sobre os anúncios de carros na Bahia do Mercado Livre e c
 - **Plotly**: Para visualização gráfica dos dados.
 
 ## 🗂️ Estrutura do Projeto
-📦mercado-livre-webscraping
- ┣ 📂dashboard
+📦mercado-livre-webscraping \n
+ ┣ 📂dashboard \n
    ┣ 📜app.py  # Código da aplicação Streamlit para visualização
  ┣ 📂data
    ┣ 📜raw_data.csv  # Dados brutos coletados
