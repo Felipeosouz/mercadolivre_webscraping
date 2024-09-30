@@ -27,7 +27,7 @@ Coletar informações sobre os anúncios de carros na Bahia do Mercado Livre e c
 ┣ 📂notebooks  
 ┃ ┣ 📜mercadolivre.ipynb  # Transformações nos dados  
 ┣ 📂mercadolivre_project  
-┣ 📜scraper.py  # Script de scraping usando Scrapy  
+┃ ┣ 📜scraper.py  # Script de scraping usando Scrapy  
 ┣ 📜data_cleaning.ipynb  # Notebook para limpeza de dados  
 ┣ 📜requirements.txt  # Bibliotecas necessárias  
 ┣ 📜README.md  # Descrição do projeto  
