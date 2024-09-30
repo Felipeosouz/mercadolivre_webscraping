@@ -19,18 +19,18 @@ Coletar informações sobre os anúncios de carros na Bahia do Mercado Livre e c
 - **Plotly**: Para visualização gráfica dos dados.
 
 ## 🗂️ Estrutura do Projeto
-📦mercado-livre-webscraping \n
- ┣ 📂dashboard \n
-   ┣ 📜app.py  # Código da aplicação Streamlit para visualização
- ┣ 📂data
-   ┣ 📜raw_data.csv  # Dados brutos coletados
- ┣ 📂notebooks
-   ┣ 📜mercadolivre.ipynb  # Transformações nos dados
- ┣ 📂mercadolivre_project
-   ┣ 📜scraper.py  # Script de scraping usando Scrapy
-   ┣ 📜data_cleaning.ipynb  # Notebook para limpeza de dados
- ┣ 📜requirements.txt  # Bibliotecas necessárias
- ┣ 📜README.md  # Descrição do projeto
+📦mercado-livre-webscraping  
+ ┣ 📂dashboard  
+   ┣ 📜app.py  # Código da aplicação Streamlit para visualização  
+ ┣ 📂data  
+   ┣ 📜raw_data.csv  # Dados brutos coletados  
+ ┣ 📂notebooks  
+   ┣ 📜mercadolivre.ipynb  # Transformações nos dados  
+ ┣ 📂mercadolivre_project  
+   ┣ 📜scraper.py  # Script de scraping usando Scrapy  
+   ┣ 📜data_cleaning.ipynb  # Notebook para limpeza de dados  
+ ┣ 📜requirements.txt  # Bibliotecas necessárias  
+ ┣ 📜README.md  # Descrição do projeto  
 
  📊 Visualização
 Os dados coletados podem ser visualizados diretamente no dashboard interativo, que inclui gráficos e filtros dinâmicos para facilitar a análise.
