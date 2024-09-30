@@ -1,10 +1,10 @@
 # 🚗 Análise de Anúncios de Carros no Mercado Livre 🚗
 
-Este projeto utiliza **web scraping** para coletar e analisar dados de anúncios de carros no **Mercado Livre**, com o objetivo de fornecer uma visão detalhada do mercado de veículos usados no estado da Bahia.
+Este projeto utiliza **web scraping** para coletar e analisar dados de anúncios de carros na Bahia do **Mercado Livre**, com o objetivo de fornecer uma visão detalhada do mercado de veículos usados no estado da Bahia.
 
 ## 🔍 Objetivo
 
-Coletar informações sobre os anúncios de carros no Mercado Livre e criar um **dashboard interativo** que permite a visualização e análise de dados, como:
+Coletar informações sobre os anúncios de carros na Bahia do Mercado Livre e criar um **dashboard interativo** que permite a visualização e análise de dados, como:
 - Ano do veículo
 - Quilometragem
 - Preço
